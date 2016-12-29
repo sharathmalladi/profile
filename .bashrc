@@ -115,3 +115,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+## FOLLOWING CHANGES ADDED BY SHARATH
+set -o vi
+export VISUAL=vim
