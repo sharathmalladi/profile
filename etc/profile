@@ -30,7 +30,7 @@ JAVA_HOME=/usr/local/java/jdk1.8.0_112
 PATH=$PATH:$JAVA_HOME/bin
 JRE_HOME=/usr/local/java/jre1.8.0_112
 PATH=$PATH:$JRE_HOME/bin
-HADOOP_INSTALL=/home/hadoop/Hadoop/hadoop-2.7.3
+HADOOP_INSTALL=/home/hadoop/hadoop-2.7.3
 PATH=$PATH:$HADOOP_INSTALL/bin
 export JAVA_HOME
 export JRE_HOME
