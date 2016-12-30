@@ -35,3 +35,4 @@ PATH=$PATH:$HADOOP_INSTALL/bin
 export JAVA_HOME
 export JRE_HOME
 export PATH
+export HADOOP_INSTALL
